@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0C0FE4A01FC23A28006F4262"
+               BlueprintIdentifier = "ABB604E71D75F666001B4B45"
                BuildableName = "GoodAsOldPhones.app"
                BlueprintName = "GoodAsOldPhones"
                ReferencedContainer = "container:GoodAsOldPhones.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0C0FE4A01FC23A28006F4262"
+            BlueprintIdentifier = "ABB604E71D75F666001B4B45"
             BuildableName = "GoodAsOldPhones.app"
             BlueprintName = "GoodAsOldPhones"
             ReferencedContainer = "container:GoodAsOldPhones.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0C0FE4A01FC23A28006F4262"
+            BlueprintIdentifier = "ABB604E71D75F666001B4B45"
             BuildableName = "GoodAsOldPhones.app"
             BlueprintName = "GoodAsOldPhones"
             ReferencedContainer = "container:GoodAsOldPhones.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0C0FE4A01FC23A28006F4262"
+            BlueprintIdentifier = "ABB604E71D75F666001B4B45"
             BuildableName = "GoodAsOldPhones.app"
             BlueprintName = "GoodAsOldPhones"
             ReferencedContainer = "container:GoodAsOldPhones.xcodeproj">
